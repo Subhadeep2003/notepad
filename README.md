@@ -1,2 +1,2 @@
 # notepad
-Notepad using python
+Notepad using python.
